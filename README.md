@@ -1,8 +1,10 @@
 NotesEverywhere!
 
 
-Group Members
+
 Project Leader: Josh Harvey C. Bandigas
+
+
 Team Members:
 
 Vince Ryan Arceo
