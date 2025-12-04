@@ -15,13 +15,9 @@ Mon Jacob Tamparong
 
 Dan Claude Bonifacio
 
-Live Application
-Vercel Deployment: [Your Vercel Deployment Link Here]
 
-Source Code
-GitHub Repository: [Your GitHub Repository Link Here]
-
-Project Overview
+NotesEverywhere!
+Project Overview:
 A full-featured web application for creating and managing personal notes with secure authentication, CRUD operations, and media upload capabilities.
 
 Features Implemented
